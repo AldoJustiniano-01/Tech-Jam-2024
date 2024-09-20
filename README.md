@@ -18,6 +18,6 @@ La siguiente tabla trae los recursos organizados para cada laboratório que vamo
 | :----------------------------------------------------------- | :---------------------------------------------: |
 | [Jam-in-a-Box for Business Automation & Digital Labor](https://ibm.github.io/cp4ba-jam-in-a-box/) | Conozca outros laboratorios del CP4BA pelo Jam-in-a-Box |
 | [IBM Business Automation Community](https://community.ibm.com/community/user/automation/home) | Comunidad de Busness Automation de IBM |
-| [watsonx Orchestrate Global Community](https://community.ibm.com/community/user/automation/communities/community-home?CommunityKey=3ad46381-9535-462e-85c9-568b21f4b067) | Comunidade Global de wxO |
-| [watsonx Orchestrate LATAM Community](https://community.ibm.com/community/user/communities/community-home?CommunityKey=293bedde-4d66-4dd4-8a56-01914a22d032) | Comunidade LATAM de wxO |
+| [watsonx Orchestrate Global Community](https://community.ibm.com/community/user/automation/communities/community-home?CommunityKey=3ad46381-9535-462e-85c9-568b21f4b067) | Comunidad Global de wxO |
+| [watsonx Orchestrate LATAM Community](https://community.ibm.com/community/user/communities/community-home?CommunityKey=293bedde-4d66-4dd4-8a56-01914a22d032) | Comunidad LATAM de wxO |
 | [IBM Business Automation](https://www.ibm.com/business-automation) | Business Automation |
