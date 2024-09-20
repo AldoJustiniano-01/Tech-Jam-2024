@@ -1,10 +1,9 @@
-# Acceso - Tech Jam Latinoamérica 2024
+# Acceso - Tech Jam LATAM 2024
 
 Listado de Ambientes y sus respectivos enlaces para acceder a las interfaces y laboratorios de este Tech Jam.
-Presta atención a tu correo electrónico, ya que indicará qué entorno y usuario debes utilizar, por ejemplo: ambiente 'Pegasus', usuario 'usr007' y contraseña 'bizauto'.
+Esté atento a tu correo electrónico, donde indicaremos a qué ambiente y usuario debes utilizar, por ejemplo: ambiente ‘Pegasus’, usuario ‘usr007’ y contraseña ‘bizauto’.
 Para acceder al entorno WxO y RPA, utiliza tu dirección de correo electrónico registrada en este Tech Jam.
-
-En caso de duda, confirmar el acceso con los instructores.
+Cualquier duda, confirmar el acceso con los instructores.
 
 
 --------------------------------------------------------------------------
