@@ -1,4 +1,4 @@
-# Flujo de trabajo de IBM Business Automation
+# IBM Business Automation Workflow
 
 ## Descripción general
 
