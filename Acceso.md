@@ -59,3 +59,20 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 
 --------------------------------------------------------------------------
+
+## - Ambiente Kakaroto -
+
+| Laboratorios                                                 | Link |
+| :----------------------------------------------------------- | :--------------------------: |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.670d2f42242dbc7351ebde07.ocp.techzone.ibm.com |
+| IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
+| IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
+
+
+| Utilidades                                                 | Link |
+| :--------------------------------------------------------- | :--------------------------: |
+| Process Admin Console | https://cpd-cp4ba.apps.670d2f42242dbc7351ebde07.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
+| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.670d2f42242dbc7351ebde07.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
+
+
+--------------------------------------------------------------------------
