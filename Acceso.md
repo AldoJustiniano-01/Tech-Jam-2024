@@ -64,15 +64,15 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 | Laboratorios                                                 | Link |
 | :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.6715247c30a030095490463a.ocp.techzone.ibm.com |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) |  |
 | IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
 | IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
 
 
 | Utilidades                                                 | Link |
 | :--------------------------------------------------------- | :--------------------------: |
-| Process Admin Console | https://cpd-cp4ba.apps.6715247c30a030095490463a.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
-| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.6715247c30a030095490463a.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
+| Process Admin Console |  |
+| IBM Content Navigator BAW Admin Desktop |  |
 
 
 --------------------------------------------------------------------------
