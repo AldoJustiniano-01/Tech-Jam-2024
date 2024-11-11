@@ -60,19 +60,3 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 --------------------------------------------------------------------------
 
-## - Ambiente Kakaroto -
-
-| Laboratorios                                                 | Link |
-| :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) |  |
-| IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
-| IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
-
-
-| Utilidades                                                 | Link |
-| :--------------------------------------------------------- | :--------------------------: |
-| Process Admin Console |  |
-| IBM Content Navigator BAW Admin Desktop |  |
-
-
---------------------------------------------------------------------------
