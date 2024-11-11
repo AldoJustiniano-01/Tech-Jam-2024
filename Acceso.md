@@ -13,15 +13,15 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 | Laboratorios                                                 | Link |
 | :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.67119eaf30a0300954903f71.ocp.techzone.ibm.com |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.672e6d52a8f85062f891ea75.ocp.techzone.ibm.com |
 | IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
 | IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
 
 
 | Utilidades                                                 | Link |
 | :--------------------------------------------------------- | :--------------------------: |
-| Process Admin Console | https://cpd-cp4ba.apps.67119eaf30a0300954903f71.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
-| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.67119eaf30a0300954903f71.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
+| Process Admin Console | https://cpd-cp4ba.apps.672e6d52a8f85062f891ea75.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
+| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.672e6d52a8f85062f891ea75.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
 
 
 --------------------------------------------------------------------------
@@ -30,15 +30,15 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 | Laboratorios                                                 | Link |
 | :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.67119e7bd7b7dd1967d978c5.ocp.techzone.ibm.com |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.672e6ca79e917720279f0252.ocp.techzone.ibm.com |
 | IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
 | IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
 
 
 | Utilidades                                                 | Link |
 | :--------------------------------------------------------- | :--------------------------: |
-| Process Admin Console | https://cpd-cp4ba.apps.67119e7bd7b7dd1967d978c5.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
-| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.67119e7bd7b7dd1967d978c5.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
+| Process Admin Console | https://cpd-cp4ba.apps.672e6ca79e917720279f0252.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
+| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.672e6ca79e917720279f0252.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
 
 
 --------------------------------------------------------------------------
@@ -47,15 +47,15 @@ Cualquier duda, confirmar el acceso con los instructores.
 
 | Laboratorios                                                 | Link |
 | :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.67127a4630a030095490423f.ocp.techzone.ibm.com |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.672e6d2d94a0cb08680cfd43.ocp.techzone.ibm.com |
 | IBM WatsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
 | IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
 
 
 | Utilidades                                                 | Link |
 | :--------------------------------------------------------- | :--------------------------: |
-| Process Admin Console | https://cpd-cp4ba.apps.67127a4630a030095490423f.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
-| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.67127a4630a030095490423f.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
+| Process Admin Console | https://cpd-cp4ba.apps.672e6d2d94a0cb08680cfd43.ocp.techzone.ibm.com/bas/ProcessAdmin/ |
+| IBM Content Navigator BAW Admin Desktop | https://cpd-cp4ba.apps.672e6d2d94a0cb08680cfd43.ocp.techzone.ibm.com/icn/navigator/?desktop=bawadmin |
 
 
 --------------------------------------------------------------------------
